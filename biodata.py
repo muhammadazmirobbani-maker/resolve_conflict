@@ -12,6 +12,7 @@ print("Alamat       :", alamat, "\n Kota :", kota)
 print("Hobi         :", hobi)
 print("Hobi         :", hobi)
 print("Hobi         :", hobi)
+31231232132132132131321313213123
 print("Hobi         :", 423)
 derdeqprint("=================================")
 print("Program Biodata Sederhana Dengan Python")
