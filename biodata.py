@@ -10,4 +10,8 @@ kota = "purwakarta"
 print("Nama Lengkap :", nama)
 print("Alamat       :", alamat, "\n Kota :", kota)
 print("Hobi         :", hobi)
+print("Hobi         :", hobi)
+print("Hobi         :", hobi)
+print("Hobi         :", 423)
+print("makanan         :", "nasi goreng")
 print("=================================")
